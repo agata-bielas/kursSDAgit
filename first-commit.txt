@@ -6,8 +6,11 @@
 <<<<<<< HEAD
 
 "wszystko dziala sprawnie i tak jak nalezy"
+<<<<<<< HEAD
 
 
 zobaczymy co sie zmnieni
 =======
 >>>>>>> parent of fb94fd2... zmodyfikowanie kody, tak by obsugiwał wyjątki
+=======
+>>>>>>> parent of 721a035... funkcja liczaca srednia z liczb
