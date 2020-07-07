@@ -5,3 +5,6 @@
 " teraz dodaje mowa linie w pliku"
 
 "wszystko dziala sprawnie i tak jak nalezy"
+
+
+zobaczymy co sie zmnieni
