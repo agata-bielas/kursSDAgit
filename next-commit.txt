@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 co tutaj mam zmienic
 
 zobaczmy co sie zmieni,
+=======
+>>>>>>> parent of fb94fd2... zmodyfikowanie kody, tak by obsugiwał wyjątki
