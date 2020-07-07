@@ -1,1 +1,5 @@
 "modyfikuje plik w dowolny sposob"
+
+
+
+" teraz dodaje mowa linie w pliku"
