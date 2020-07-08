@@ -1,1 +1,3 @@
 Kod napisany na branch-1.
+
+Nowa funkcja testujaca na branch-1.
