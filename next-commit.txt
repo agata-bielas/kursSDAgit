@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 co tutaj mam zmienic
 
 zobaczmy co sie zmieni,
-=======
->>>>>>> parent of fb94fd2... zmodyfikowanie kody, tak by obsugiwał wyjątki
-=======
+
 co tutaj mam zmienic,
->>>>>>> parent of 721a035... funkcja liczaca srednia z liczb
