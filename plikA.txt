@@ -2,3 +2,5 @@ czesc to znowu ja ucze sie robic rebase.
 ten wpis jest na branchu test.
 
 Ciekawe czy teraz cos sie pojawi jak zrobie zaraz nowego pusha :)
+
+Czy musze tutaj cos napisać? przecież wszystko działa.
