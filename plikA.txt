@@ -1,6 +1,13 @@
 czesc to znowu ja ucze sie robic rebase.
 ten wpis jest na branchu test.
 
+
 Ciekawe czy teraz cos sie pojawi jak zrobie zaraz nowego pusha :)
 
+
 Czy musze tutaj cos napisać? przecież wszystko działa.
+tak własnie ta funkcja została dodana na branchu nowy_test.
+Lepiej tego nie usuwaj!!!
+
+
+Nowa funkcja na branchu nowy_test.
