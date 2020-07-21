@@ -1,0 +1,2 @@
+czesc to znowu ja ucze sie robic rebase.
+ten wpis jest na branchu test.
